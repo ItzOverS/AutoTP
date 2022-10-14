@@ -1,0 +1,13 @@
+name: AutoTP
+version: 1.0.2
+main: autotp.autotp.AutoTP
+api-version: 1.16
+authors: [ _OverLight_ ]
+description: Simple Teleport plugin
+commands:
+  tpa:
+    description: send a teleport request to a player
+  tpaccept:
+    description: accept the teleport request
+  tpdeny:
+    description: deny the teleport request
